@@ -19,7 +19,8 @@ Foram Extraídas informações do sistema atual de gestão em 3 Dimensões disti
 Houve uma integração das datas entre as 5 bases utilziadas, através da criação de um calendário padronizado. No momento não houve a necessidade de uma estruturação mais complexa, porem, para podermos contextualizar os dados inseridos, assim como realizar a criação dos 16 Indicadores Obrigatórios e a criação do Censo do setor, onde medimos quantidade de procedimentos por cirurgão, divisão por faixa etária e porte de cirurgia, foram criadas mais de 30 interaçãoes através de Fórmulas DAX.
 
 ## O Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiZTk3ZGZlNGQtZGQwMS00NWNiLTg2ODgtZWRiOTVkY2FhOGI2IiwidCI6ImVlODdkOWJlLTRiZDMtNDYzOC04MWIzLTE1OGU0ZjIxNDczYSJ9
+[GitHub Pages]([https://pages.github.com/](https://app.powerbi.com/view?r=eyJrIjoiZTk3ZGZlNGQtZGQwMS00NWNiLTg2ODgtZWRiOTVkY2FhOGI2IiwidCI6ImVlODdkOWJlLTRiZDMtNDYzOC04MWIzLTE1OGU0ZjIxNDczYSJ9)
+
 https://app.powerbi.com/view?r=eyJrIjoiMDhhY2YzYzktYjIzNS00ZWUyLTllOWMtNTA5NGM3ZjJjN2Q2IiwidCI6ImVlODdkOWJlLTRiZDMtNDYzOC04MWIzLTE1OGU0ZjIxNDczYSJ9
 
 

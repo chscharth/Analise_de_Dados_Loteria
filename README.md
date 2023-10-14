@@ -20,7 +20,7 @@ Através das 3 bases principais acima e sabendo que o cliente gostaria de ver, r
 ![etl](https://github.com/chscharth/Analise_de_Dados_Loteria/assets/85425294/5d9d7f43-c5fb-493d-af25-d5f8f44fa720)
 
 ## O Dashboard
-O Resultado do Trabalho pode ser acessado nos links abaixo:
+O Resultado do Trabalho pode ser acessado nos links abaixo
 
 [Painel Loteria 1](https://app.powerbi.com/view?r=eyJrIjoiZTk3ZGZlNGQtZGQwMS00NWNiLTg2ODgtZWRiOTVkY2FhOGI2IiwidCI6ImVlODdkOWJlLTRiZDMtNDYzOC04MWIzLTE1OGU0ZjIxNDczYSJ9)
 

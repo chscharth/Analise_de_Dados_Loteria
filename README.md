@@ -20,6 +20,7 @@ Houve uma integração das datas entre as 5 bases utilziadas, através da criaç
 ![etl](https://github.com/chscharth/Analise_de_Dados_Loteria/assets/85425294/5d9d7f43-c5fb-493d-af25-d5f8f44fa720)
 
 ## O Dashboard
+O Resultado do Trabalho pode ser acessado nos links abaixo:
 [Painel Loteria 1](https://app.powerbi.com/view?r=eyJrIjoiZTk3ZGZlNGQtZGQwMS00NWNiLTg2ODgtZWRiOTVkY2FhOGI2IiwidCI6ImVlODdkOWJlLTRiZDMtNDYzOC04MWIzLTE1OGU0ZjIxNDczYSJ9)
 
 [Painel Loteria 2](https://app.powerbi.com/view?r=eyJrIjoiMDhhY2YzYzktYjIzNS00ZWUyLTllOWMtNTA5NGM3ZjJjN2Q2IiwidCI6ImVlODdkOWJlLTRiZDMtNDYzOC04MWIzLTE1OGU0ZjIxNDczYSJ9)
